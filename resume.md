@@ -34,7 +34,6 @@ and change @REDACTED to be true
 - {LOCATION}
 - [{PHONE}](tel:9157271604)
 - [Github](https://github.com/KyadaPavan)
-- [Portfolio](https://parthmadhvani2.github.io/MyPortfolio/)
 - [LinkedIn](https://www.linkedin.com/in/pavankyada/)
 - [{EMAIL}](mailto:kyadapavan0016@gmail.com)
 
@@ -96,5 +95,3 @@ and change @REDACTED to be true
 ### A. D. Patel Institute of Technology<span class="spacer"></span>Anand, Gujarat
 
 *Bachelors of Technology in Information Technology*<span class="spacer"></span> Oct 2021 - May 2025
-
-
