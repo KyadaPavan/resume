@@ -96,5 +96,3 @@ and change @REDACTED to be true
 ### A. D. Patel Institute of Technology<span class="spacer"></span>Anand, Gujarat
 
 *Bachelors of Technology in Information Technology*<span class="spacer"></span> Oct 2021 - May 2025
-
-
