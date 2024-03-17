@@ -34,7 +34,6 @@ and change @REDACTED to be true
 - {LOCATION}
 - [{PHONE}](tel:9157271604)
 - [Github](https://github.com/KyadaPavan)
-- [Portfolio](https://parthmadhvani2.github.io/MyPortfolio/)
 - [LinkedIn](https://www.linkedin.com/in/pavankyada/)
 - [{EMAIL}](mailto:kyadapavan0016@gmail.com)
 
@@ -66,6 +65,11 @@ and change @REDACTED to be true
 
 
 ## PROJECTS
+### FramePhase &nbsp;[Live](frame-phase.netlify.app/) &nbsp; &nbsp;[Github](https://github.com/Hackerzspace/FramePhase)<span class="spacer"></span>Feb 2024 - March 2024
+ *[Next.Js, JavaScript, TailwindCSS, WebAssembly, AWS S3, Figma]*	
+
+- Developed a cutting-edge **Captions Generator Application** that transcribes videos and applies adjustable captions with a user-friendly editor.
+- Noteworthy features include customizable options such as **colour schemes, margins, and more,** enhancing user experience and accessibility.
 ### ClearCast &nbsp;[Live](https://clearcast.vercel.app/)&nbsp;&nbsp;[Github](https://github.com/KyadaPavan/ClearCast)<span class="spacer"></span>Jan 2024
  *[HTML, Css, JavaScript, APIs]*	
 
